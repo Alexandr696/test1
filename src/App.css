@@ -1,0 +1,50 @@
+/* body {
+  font-family: sans-serif;
+}
+
+#root {
+  display: grid;
+  grid-template-rows: 40px 64px 1fr 35px;
+  height: 100vh;
+}
+
+.top-info {
+  background: #f3f4f6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 40px 1fr 1fr 1fr;
+  padding: 10px 20px 0 20px;
+}
+
+.header .header__search {
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  background: #f3f4f6;
+}
+
+.header .header__menu .header__menu-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+
+main.content {
+  margin: 100px 0;
+}
+main .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
